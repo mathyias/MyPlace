@@ -1,7 +1,5 @@
 # MyPlace
 none
 
-/* hi welcome
-
-
- */
+//new
+//new test 
